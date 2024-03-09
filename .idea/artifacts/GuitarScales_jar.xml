@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GuitarScales:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuitarScales_jar</output-path>
+    <root id="archive" name="GuitarScales.jar">
+      <element id="module-output" name="GuitarScales" />
+    </root>
+  </artifact>
+</component>
